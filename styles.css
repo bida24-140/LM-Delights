@@ -2,7 +2,7 @@ selector {
   property: value:
 }
   header {
-    background-color: pink,purple;
+    background-color:purple;
 
 color: white;
 
@@ -24,7 +24,7 @@ nav a {
 
 color: white;
 
-text-decoration: none;
+text-decoration:italic;
 
 margin: 0 10px;
 
