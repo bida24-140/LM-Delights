@@ -58,7 +58,8 @@ margin: 20px 0
 body {
   font family: Arial, sans-serif;
   color: #333;
-  background-color: rgb(255, 182, 183)
+  background-color: rgb(255, 182, 193); /* LightPink */
+
   margin: 0;
   padding: 0;
   line-height: 1.6;
