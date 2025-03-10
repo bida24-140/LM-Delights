@@ -2,7 +2,7 @@ selector {
   property: value:
 }
   header {
-    background: rgb(255, 20, 147);
+    background: #FF9999;
 
 color: white;
 
@@ -58,7 +58,7 @@ margin: 20px 0
 body {
   font family: Arial, sans-serif;
   color: #333;
-  background-color: rgb(255, 182, 193); /* LightPink */
+  background-color: #F4C2C2; /* BabyPink */
 
   margin: 0;
   padding: 0;
