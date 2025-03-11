@@ -67,19 +67,6 @@ body {
   padding: 0;
   line-height: 1.6;
   }
-    <title>Images Beside Each Other</title>
-  <style>
-    .image-container {
-      text-align: center; /* Center the images horizontally */
-    }
-
-    .image-container img {
-      display: inline-block;
-      margin: 10px; /* Add some space between images */
-      max-width: 200px; /* Adjust the size as needed */
-      height: auto;
-    }
-  </style>
 
   
   footer {
