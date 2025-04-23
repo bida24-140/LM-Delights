@@ -67,39 +67,6 @@ body {
   padding: 0;
   line-height: 1.6;
   }
-  <div class="product-container">
-  <div class="product-item">
-    <h3>Chocolate Cake</h3>
-    <p>$12.99</p>
-  </div>
-  <div class="product-item">
-    <h3>Vanilla Cupcake</h3>
-    <p>$2.50</p>
-  </div>
-  <div class="product-item">
-    <h3>Strawberry Tart</h3>
-    <p>$4.75</p>
-  </div>
-  <!-- Add more products as needed -->
-</div>
- 
-<style>
-.product-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
-  padding: 30px;
-  background-color: #fffaf0;
-}
- 
-.product-item {
-  background-color: #f0e5d8;
-  padding: 20px;
-  border-radius: 10px;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-  text-align: center;
-}
-</style>
 
   
   footer {
