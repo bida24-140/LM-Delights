@@ -12,12 +12,15 @@ body.home-page {
   background-repeat: no-repeat;
   color: white; /* Optional: adjust text color */
   height: 100vh;
-  overflow: hidden;
+  overflow: hiddenheader {
 
-  header {
-    background: #FF9999;
+background-color: #4CAF50;
 
 color: white;
+
+padding: 20px;
+
+text-align: center;
 
 padding: 20px;
 
