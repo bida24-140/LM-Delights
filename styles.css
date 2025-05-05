@@ -4,6 +4,16 @@ p {
   font-family:Arial, sans-serif;
   text-align: center;
 }
+/* Unique background for homepage */
+body.home-page {
+  background-image: url("LOGO PICTURE.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; /* Optional: adjust text color */
+  height: 100vh;
+  overflow: hidden;
+
   header {
     background: #FF9999;
 
