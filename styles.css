@@ -6,7 +6,7 @@ p {
 }
   
 header{
-background-color: #4CAF50;
+background-color: #F4C2C2;
 
 color: white;
 
@@ -19,15 +19,6 @@ padding: 20px;
 text-align: center;
 
 }
-/* Unique background for homepage */
-body.home-page {
-  background-image: url("LOGO PICTURE.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: white; /* Optional: adjust text color */
-  height: 100vh;
-  overflow: hiddenheader 
 
 
 header h1 {
@@ -75,8 +66,17 @@ margin: 20px 0
 body {
   font family: Arial, sans-serif;
   color: #333;
-  background-color: #F4C2C2;
 
+<style>
+.hero-section {
+  background-image: url('LOGO-PICTURE.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 100px 20px;
+  text-align: center;
+  color: white;
+}
+</style>
   margin: 0;
   padding: 0;
   line-height: 1.6;
