@@ -4,6 +4,17 @@ p {
   font-family:Arial, sans-serif;
   text-align: center;
 }
+body {
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+    url('LOGO PPICTURE.JPG') no-repeat center center fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  line-height: 1.6; 
+}
   
 header{
 background-color: #F4C2C2;
@@ -67,16 +78,6 @@ body {
   font family: Arial, sans-serif;
   color: #333;
 
-<style>
-.hero-section {
-  background-image: url('LOGO PICTURE.jpg');
-  background-size: cover;
-  background-position: center;
-  padding: 100px 20px;
-  text-align: center;
-  color: white;
-}
-</style>
   margin: 0;
   padding: 0;
   line-height: 1.6;
